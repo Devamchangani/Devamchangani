@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devamchangani
 - 👀 I’m interested in Python 
-- 🌱 I’m currently learning DS, Python 
+- 🌱 I’m currently learning DS, Python, Data mining, AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
